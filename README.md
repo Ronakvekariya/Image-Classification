@@ -25,6 +25,6 @@
 - Model used to solved problem is very apparent , which is DNN (Deep Neural Network)
 - The specifc details of the model such as num of conv , pooling or dropout layer can found in the repo file.
 
-  # Result:-
+# Result:-
   - Accuracy : 93%
 
